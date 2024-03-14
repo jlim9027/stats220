@@ -1,10 +1,18 @@
 # stats220
 ### This is my demo for stats 220
 _I will explain the purpose of repo_
-* _This is cool_
 
-1. first
-2. second
+* _I can store code, files, and file's revision history in repository_
+* _I can have multiple collaborations in public and private_
+* _I can edit and make changes to codes_
+
+### I will explain how to open a new repository
+1. In the upper right corner of any page click New repository
+2. choose a repository visibility
+3. Select Initialize thes repository with README
+4. Click create repository
 
 ## Link
-[link to meme website](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fhuh-cat&psig=AOvVaw3xciAmUvS9KfFZppYFcZH7&ust=1710330860304000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCPCLiZDV7oQDFQAAAAAdAAAAABAD)
+[link to website](https://gradecalc.info/nz/auckland/cumulative_gpa_calc.pl)
+
+
